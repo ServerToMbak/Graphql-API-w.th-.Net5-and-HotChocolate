@@ -76,3 +76,8 @@ C:\Users\msı-nb\CommanderGQL\obj\Debug\net5.0\refint\CommanderGQL.dll
 C:\Users\msı-nb\CommanderGQL\obj\Debug\net5.0\CommanderGQL.pdb
 C:\Users\msı-nb\CommanderGQL\obj\Debug\net5.0\CommanderGQL.genruntimeconfig.cache
 C:\Users\msı-nb\CommanderGQL\obj\Debug\net5.0\ref\CommanderGQL.dll
+C:\Users\msı-nb\CommanderGQL\obj\Debug\net5.0\staticwebassets\CommanderGQL.StaticWebAssets.Pack.cache
+C:\Users\msı-nb\CommanderGQL\obj\Debug\net5.0\staticwebassets\msbuild.CommanderGQL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\msı-nb\CommanderGQL\obj\Debug\net5.0\staticwebassets\msbuild.build.CommanderGQL.props
+C:\Users\msı-nb\CommanderGQL\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CommanderGQL.props
+C:\Users\msı-nb\CommanderGQL\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CommanderGQL.props
