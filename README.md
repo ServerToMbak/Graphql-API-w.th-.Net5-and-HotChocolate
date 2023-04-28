@@ -1,4 +1,4 @@
-# Graphql-API-w.th-.Net5-and-HotChocolate
+# Graphql-API-with-.Net5-and-HotChocolate
 
 
 GraphQl  
